@@ -31,6 +31,7 @@ properties:
           - const: allwinner,sun8i-h3-rtc
       - items:
           - const: allwinner,sun20i-d1-rtc
+          - const: allwinner,sun8i-v853-rtc
           - const: allwinner,sun50i-r329-rtc
 
   reg:
